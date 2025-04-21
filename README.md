@@ -5,7 +5,10 @@
 <div align="center">
    <img src="https://img.shields.io/badge/cybersecurity-%2314354C.svg?&style=for-the-badge&logo=cybersecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/5H3RD1L-%23FF5F5F.svg?&style=for-the-badge&logo=probot&logoColor=white"/>
+   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/5H3RD1L-%23FF5F5F.svg?&style=for-the-badge&logo=&logoColor=white"/>
+
 
 </div>
 

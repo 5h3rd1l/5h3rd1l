@@ -8,13 +8,11 @@
    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/5H3RD1L-%23FF5F5F.svg?&style=for-the-badge&logo=&logoColor=white"/>
-
-
 </div>
 
 ###
 
-<p align="center">i like to break into stuff.</p>
+<p align="center">Breaking stuff to understand it, fixing it to outsmart it — that’s how I learn cybersecurity.</p>
 
 ###
 
@@ -24,9 +22,9 @@
 
 ## 🌍 **Connect with Me**
 <ul>
-  <li><b>🌍 Website:</b> <a href="https://5h3rd1l.vercel.app/" target="_blank">5h3rd1l.me</a></li>
-  <li><b>📜 Medium:</b> <a href="https://medium.com/@rubasali.paf" target="_blank">https://thegriffyn.me/blog</a></li>
-  <li><b>🚀 Discord:</b> 5h3rd1l</li>
+  <li><b>🌍 Website:</b> <a href="https://5h3rd1l.vercel.app/" target="_blank">5h3rd1l.vercel.app</a></li>
+  <li><b>📜 Medium:</b> <a href="https://medium.com/@rubasali.paf" target="_blank">https://medium.com/@rubasali.paf</a></li>
+  <li><b>🚀 Discord:</b> <a href="https://discordapp.com/users/1060110298897453127" target="_blank"> 5h3rd1l</li>
   <li><b>📩 Email:</b> <a href="mailto:rubasali.paf@gmail.com">rubasali.paf@gmail.com</a></li>
   <li><b>📈 LinkedIn:</b> <a href="https://linkedin.com/in/rubasali" target="_blank">https://linkedin.com/in/rubasali</a></li>
 </ul>
@@ -38,3 +36,7 @@
 ![snake gif](https://github.com/5h3rd1l/5h3rd1l/blob/output/github-snake-dark.svg)
 
 ###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=5h3rd1l&style=flat-square&color=blue" alt=""/>
+</p>

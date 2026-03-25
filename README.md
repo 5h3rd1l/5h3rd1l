@@ -16,9 +16,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5h3rd1l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<table>
+<tr>
+<td>
+
+![](https://github-readme-stats.vercel.app/api?username=5h3rd1l&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+</td>
+<td>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5h3rd1l&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</td>
+</tr>
+</table>
 
 ## 🌍 **Connect with Me**
 <ul>
